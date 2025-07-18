@@ -421,7 +421,7 @@ function Questions() {
     setScore(correct);
     setShowResults(true);
   };
-
+  
   const handleRestart = () => {
     startQuiz();
   };
